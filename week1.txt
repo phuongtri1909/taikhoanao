@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-day la file week1 cua brain week1 mà thôi
-=======
-day la file week1 cua brain week1 va main
->>>>>>> main
